@@ -1,4 +1,4 @@
-**Log on to astro.com for more projects!***
+
 
 **Database Name: realestatephp**
 
